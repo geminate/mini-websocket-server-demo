@@ -1,0 +1,23 @@
+{
+  "name": "mini-websocket-server-demo",
+  "version": "1.0.0",
+  "description": "微信小程序 webSocket 服务端 demo",
+  "main": "index.js",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geminate/mini-websocket-server-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geminate/mini-websocket-server-demo/issues"
+  },
+  "homepage": "https://github.com/geminate/mini-websocket-server-demo#readme"
+}
